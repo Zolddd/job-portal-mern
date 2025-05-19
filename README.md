@@ -67,4 +67,4 @@ MIT License
 
 ## Contact
 
-Created by Azim Shaikh (@Zolddd on GitHub)
+Created by Azim Shaikh (https://github.com/Zolddd)
